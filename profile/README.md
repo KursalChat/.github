@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.jpg" alt="Kursal" width="100%" style="border-radius: 20px" />
+  <img src="../assets/header.jpg" alt="Kursal" width="100%" style="border-radius: 20px" />
 
   <h2>Big Brother <i>was</i> watching you.</h2>
 </div>
